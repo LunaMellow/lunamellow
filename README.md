@@ -1,6 +1,6 @@
 <h1 align='center'>
   <br>
-  <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><img src='https://cdn.discordapp.com/attachments/640641733151162388/1174743801475117136/Pfp-modified_purple.png?ex=6568b46b&is=65563f6b&hm=d5d05741ca446dde412925510bb55fc24492ee95f4c15e8fa8fa78904b6e90bf&' alt='Sogi' width='300'></a>
+  <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><img src='https://cdn.discordapp.com/attachments/734478340802478124/1213924899610165338/Pfp-modified_purple.png?ex=65f73ea9&is=65e4c9a9&hm=3ae1667e741cdac85b6d2e488b2cffc3134406edfdfc0fdd2e4875aab87121fd&' alt='Pfp loading..' width='300'></a>
   <br>
   <br>
   LUNAMELLOW
