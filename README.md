@@ -1,6 +1,6 @@
 <h1 align='center'>
   <br>
-  <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><img src='https://cdn.discordapp.com/attachments/734478340802478124/1213924899610165338/Pfp-modified_purple.png?ex=65f73ea9&is=65e4c9a9&hm=3ae1667e741cdac85b6d2e488b2cffc3134406edfdfc0fdd2e4875aab87121fd&' alt='Embed Error lol' width='300'></a>
+  <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><img src='https://github.com/LunaMellow/lunamellow/assets/65740751/f066d64c-d327-41be-a9a4-d7fba1a09f24' alt='Embed Error lol' width='300'></a>
   <br>
   <br>
   LUNAMELLOW
