@@ -1,11 +1,12 @@
 <h1 align='center'>
   <br>
-  <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><img src='https://github.com/LunaMellow/lunamellow/assets/65740751/f066d64c-d327-41be-a9a4-d7fba1a09f24' alt='Embed Error lol' width='300'></a>
+  <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><img src='https://github.com/user-attachments/assets/1e999455-fc52-4ba1-90fb-0a7d254c9205' alt='Embed Error lol' width='300'></a>
   <br>
   <br>
   LUNAMELLOW
   <br>
-</h1>
+</h1>!
+
 
 <br>
 <br>
